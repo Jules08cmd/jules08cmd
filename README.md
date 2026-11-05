@@ -1,89 +1,29 @@
-# Hi, I'm Julian 👋
-
-Welcome to my GitHub profile!
-
-I'm a student from **Baden-Württemberg, Germany**, currently attending a **Technical High School (Technisches Gymnasium)**.
-
-I'm interested in **technology, software, programming, and IT** in general. I enjoy experimenting with new things, understanding how systems work, and building my own projects along the way.
-
-## 👨‍💻 About Me
-
-- 🎓 I'm currently a student at a Technical High School in Germany
-- 🇩🇪 Based in Baden-Württemberg, Germany
-- 💻 Interested in programming, software, and technology
-- 🔧 I like experimenting with different technologies and building my own projects
-- 🧠 I enjoy understanding how things work instead of just using them
-- 📚 I'm continuously learning and improving my programming and technical skills
-- 🚀 I use GitHub to document my projects, experiments, and progress
-
-## 🛠️ Technologies & Tools
-
-I'm currently building my experience with different technologies and tools.
-
-**Development**
-- More coming soon...
-
-**Tools**
-- Git
-- GitHub
-- Visual Studio Code
-
-I will update this section as I learn and work with more technologies.
-
-## 🚀 What I'm Working On
-
-At the moment, I'm using GitHub mainly to work on personal projects, experiment with new ideas, and improve my development skills.
-
-Some of my repositories may be small experiments, while others are projects that I continue developing over time.
-
-My goal is not just to collect repositories, but to understand what I'm building and improve with every project.
-
-## 📚 Currently Learning
-
-I'm constantly exploring new areas of technology and programming.
-
-Right now, I'm especially interested in improving my knowledge of:
-
-- Software development
-- Programming
-- Git & GitHub
-- Web technologies
-- IT and computer systems
-- Automation and useful technical projects
-
-## 📂 My Projects
-
-You'll find my current and future projects here on GitHub.
-
-As I build more projects, I'll highlight some of my favorites in this section.
-
-<!--
-Example:
-
-### 🔹 Project Name
-Short description of the project.
-
-**Technologies:** Python, HTML, CSS
-
-[View Repository](https://github.com/YOUR-USERNAME/PROJECT)
--->
-
-## 🎯 Goals
-
-I want to keep improving my technical skills and gain more practical experience through real projects.
-
-Instead of only learning theory, I like trying things myself, solving problems, making mistakes, and figuring out how to improve them.
-
-Over time, I want this GitHub profile to show my progress and the projects I've worked on.
-
-## 📊 GitHub
-
-This profile is still growing.
-
-More projects, experiments, and updates will be added over time.
-
----
-
-### Thanks for visiting! 👋
-
-Feel free to explore my repositories and see what I'm currently working on.
+<h1>Hi 👋, I'm Julian</h1>
+<p>A passionate frontend developer from Germany</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
+<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href="https://towho.app">Website zu meiner App</a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.instagram.com/juliank.ig" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://www.youtube.com/GTA6Youtuber" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jules08cmd&show_icons=true&locale=en" alt="Jules08cmd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jules08cmd&" alt="Jules08cmd" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jules08cmd&show_icons=true&locale=en&layout=compact" alt="Jules08cmd" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jules08cmd" alt="Jules08cmd" /></a></p>
